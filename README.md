@@ -1,4 +1,5 @@
-* # 🎧 Music Store Data Analysis: Main Character Energy 💅
+* # 🎧 Music Store Data Analysis:
+ ## -- Main Character Energy 💅--
 
 > **TL;DR:** We took raw transactional music store data, threw it into **MySQL Workbench**, ran high-key sophisticated CTEs and Window Functions, and pulled actionable business insights. No boring basic queries allowed. 🚀
 
