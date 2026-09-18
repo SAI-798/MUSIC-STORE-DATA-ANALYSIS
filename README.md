@@ -1,5 +1,5 @@
 * # 🎧 Music Store Data Analysis:
- ## -- Main Character Energy 💅--
+ ## Main Character Energy 💅
 
 > **TL;DR:** We took raw transactional music store data, threw it into **MySQL Workbench**, ran high-key sophisticated CTEs and Window Functions, and pulled actionable business insights. No boring basic queries allowed. 🚀
 
@@ -13,7 +13,7 @@
 
 ---
 
-## ☕ What’s the Tea? (Executive Summary)
+## Executive Summary
 
 Instead of just running plain `SELECT * FROM table`, this project breaks down how a digital media store actually makes money, retains top listeners, and cleans up catalog clutter. 
 
